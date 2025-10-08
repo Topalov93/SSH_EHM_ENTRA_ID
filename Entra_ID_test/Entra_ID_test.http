@@ -1,0 +1,6 @@
+@Entra_ID_test_HostAddress = http://localhost:5291
+
+GET {{Entra_ID_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
